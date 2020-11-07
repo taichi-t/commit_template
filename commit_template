@@ -1,0 +1,18 @@
+# ==== Emojis ====
+# 🎉  :tada: Begin a project.
+# 🐛  :bug: Fix a bug.
+# ♻️   :recycle: Refactor code.
+# ⚡️   :zap: Improve performance.
+# ✨  :sparkles: Introduce new features.
+# 💄  :lipstick: Add or update the UI and style files.
+# 🔥  :fire: Remove code or files.
+# ✅  :white_check_mark: Add or update tests.
+# 🚀  :rocket: Deploy stuff.
+# ⬆️  :arrow_up: Upgrade dependencies.
+# ✏️   :pencil2: Fix typos.
+# 🙈   :see_no_evil: Add or update a .gitignore file.
+
+
+# ==== Format ====
+# :emoji: Subject with capital letter
+
