@@ -4,13 +4,22 @@
 # ♻️   :recycle: Refactor code.
 # ⚡️   :zap: Improve performance.
 # ✨  :sparkles: Introduce new features.
+# 💥  :boom: Introduce breaking changes.
 # 💄  :lipstick: Add or update the UI and style files.
 # 🔥  :fire: Remove code or files.
 # ✅  :white_check_mark: Add or update tests.
+# ➕  :heavy_plus_sign: Add a dependency.
+# ➖  :heavy_minus_sign: Remove a dependency.
 # 🚀  :rocket: Deploy stuff.
+# 🎨  :art: Improve structure / format of the code.
+# ⬇️  :arrow_down: Downgrade dependencies.
 # ⬆️  :arrow_up: Upgrade dependencies.
+# 🚚  :truck: Move or rename resources (e.g.: files, paths, routes).
+# 🔧  :wrench: Add or update configuration files.
+# 🔨  :hammer: Add or update development scripts.
+# 🍱  ::bento: Add or update assets.
 # ✏️   :pencil2: Fix typos.
-# 🙈   :see_no_evil: Add or update a .gitignore file.
+# 🙈  :see_no_evil: Add or update a .gitignore file.
 
 
 # ==== Format ====
